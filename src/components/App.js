@@ -7,7 +7,7 @@ import Hotels from './Hotels/Hotels';
 import Detail from './Detail/Detail';
 import Form from './Form/Form';
 
-const GlobalStyle = createGlobalStyle`
+const GlobalStyle = createGlobalStyle
   body {
     margin: 0;
     padding: 0;
@@ -17,11 +17,11 @@ const GlobalStyle = createGlobalStyle`
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-`;
+;
 
-const AppWrapper = styled.div`
+const AppWrapper = styled.div
   text-align: center;
-`;
+;
 
 const App = () => (
   <>
