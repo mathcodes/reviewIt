@@ -1,0 +1,2 @@
+All chapters have code files.
+In this code bundle Chapter0X is the final code of each chapter and in case the user want to start with some boilerplate there is Chapter0X-inital folders created from  which the user starts.
